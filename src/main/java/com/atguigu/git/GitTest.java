@@ -5,4 +5,8 @@ public class GitTest {
 		
 		
 	}
+	public void fun2(){
+		
+		
+	}
 }
